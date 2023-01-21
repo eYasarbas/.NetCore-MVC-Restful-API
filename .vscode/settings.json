@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:WebAPIApp}/mydb.db",
+            "name": "mydb"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
